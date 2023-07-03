@@ -1,0 +1,71 @@
+<cena>
+	<grupo>
+		<modelos>
+			<modelo ficheiro="esfera.3d" />
+		</modelos>
+		<grupo>
+			<translacao x=10 />
+			<escala x=0.02 y=0.02 z=0.02 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao x=14 />
+			<escala x=0.045 y=0.045 z=0.045 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao x=18 />
+			<escala x=0.05 y=0.05 z=0.05 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+			<grupo>
+				<translacao y=10 z=0.2 />
+				<escala x=0.3 y=0.3 z=0.3/>
+				<modelos>
+					<modelo ficheiro="esfera.3d" />
+				</modelos>
+			</grupo>
+		</grupo>
+		<grupo>
+			<translacao x=21 />
+			<escala x=0.025 y=0.025 z=0.025 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao x=28 />
+			<escala x=0.5 y=0.5 z=0.5 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao x=36 />
+			<escala x=0.45 y=0.45 z=0.45 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+				<modelo ficheiro="cilindro.3d" />
+			</modelos>			
+		</grupo>
+		<grupo>
+			<translacao x=43 />
+			<escala x=0.2 y=0.2 z=0.2 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao x=47 />
+			<escala x=0.2 y=0.2 z=0.2 />
+			<modelos>
+				<modelo ficheiro="esfera.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

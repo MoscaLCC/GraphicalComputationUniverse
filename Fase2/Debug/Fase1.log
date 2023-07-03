@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Motor3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gerador.cpp
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(90): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase2\fase2\gerador.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Fase1.vcxproj -> C:\Users\filp7\Desktop\CG\Fase2\Fase2\Debug\Gerador.exe

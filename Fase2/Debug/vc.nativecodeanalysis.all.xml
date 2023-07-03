@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\filp7\desktop\cg\fase1\fase1\</FILEPATH>
+      <FILENAME>gerador.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'aux' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '18' of 'c:\users\filp7\desktop\cg\fase1\fase1\gerador.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\filp7\desktop\cg\fase1\fase1\</FILEPATH>
+        <FILENAME>gerador.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

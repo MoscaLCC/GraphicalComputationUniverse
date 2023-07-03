@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Gerador.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tinyxmlparser.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\tinyxml\tinyxmlparser.cpp': No such file or directory
+  tinyxmlerror.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\tinyxml\tinyxmlerror.cpp': No such file or directory
+  tinyxml.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\tinyxml\tinyxml.cpp': No such file or directory
+  tinystr.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\tinyxml\tinystr.cpp': No such file or directory
+  Generating Code...

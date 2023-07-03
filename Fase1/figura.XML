@@ -1,0 +1,7 @@
+<cena>
+	<modelo ficheiro="plano.3d" />
+	<modelo ficheiro="caixa.3d" />
+	<modelo ficheiro="cone.3d" />
+	<modelo ficheiro="caixa.3d" />
+	<modelo ficheiro="esfera.3d" />
+</cena>

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Gerador.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  motor.cpp
+c:\users\luís\desktop\fase4\motor3d\motor.cpp(367): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+  Motor3D.vcxproj -> C:\Users\Luís\Desktop\Fase4\motor3d\Debug\Motor3D.exe

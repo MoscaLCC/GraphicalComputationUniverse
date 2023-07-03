@@ -1,0 +1,81 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Motor3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gerador.cpp
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(212): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(230): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(231): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(232): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(234): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(235): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(237): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(238): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(241): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(242): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(248): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(249): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(273): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(274): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(275): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(276): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(278): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(280): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(281): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(282): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(286): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(287): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(288): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(289): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(290): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(356): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(382): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(383): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(384): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(385): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(387): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(388): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(389): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(390): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(392): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(393): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(394): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(395): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(412): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(355): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(359): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(364): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(122): warning C4101: 'a': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(121): warning C4101: 'v': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(122): warning C4101: 'b': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(120): warning C4101: 'y': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(122): warning C4101: 'c': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(120): warning C4101: 'x': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(121): warning C4101: 'w': unreferenced local variable
+c:\users\filp7\desktop\cg\fase4\fase4\motor3d\gerador.cpp(122): warning C4101: 'd': unreferenced local variable
+  Fase1.vcxproj -> C:\Users\filp7\Desktop\CG\Fase4\Fase4\motor3d\Debug\Gerador.exe
